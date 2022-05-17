@@ -17,6 +17,7 @@
     height: 5vh;
     padding: auto;
     margin-bottom: 1vh;
+    color: rgb(43, 0, 103);
     font-family: 'Tapestry',cursive;
     /* text-align: center; */
 }
@@ -46,11 +47,11 @@
    left: 2rem;  
    text-align: center;  
    background-color: black;  
-   width: 200px;  
+   width: 15vw;  
    color: whitesmoke;  
    line-height: 40px;  
    border-radius: 10px;  
-   font-size: 1.2em;  
+   font-size: 1.5vw;  
 }
 .clickToStart {
     font-size: 25px;
@@ -86,12 +87,12 @@
     width: 50px;  
     position: absolute;  
     top: 520px;  
-} 
+}
 /* To be audited */
 .roadLines {  
     height: 100px;  
     width: 10px;  
     background-color: white;  
     position: absolute;  
-    margin-left: 195px;  
+    margin-left: 25vw;  
 }  
